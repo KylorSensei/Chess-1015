@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Echiquier.cpp
+  Jeu.cpp
+C:\Users\Amine\Downloads\ProjetTestQt_v2022-03-31\src\Echiquier.cpp(144): warning C4701: variable locale 'roiX' potentiellement non initialisée utilisée
+C:\Users\Amine\Downloads\ProjetTestQt_v2022-03-31\src\Echiquier.cpp(144): warning C4701: variable locale 'roiY' potentiellement non initialisée utilisée
+  moc_Jeu.cpp
+     Création de la bibliothèque C:\Users\Amine\Downloads\ProjetTestQt_v2022-03-31\x64\Debug\ProjetTestQt.lib et de l'objet C:\Users\Amine\Downloads\ProjetTestQt_v2022-03-31\x64\Debug\ProjetTestQt.exp
+  ProjetTestQt.vcxproj -> C:\Users\Amine\Downloads\ProjetTestQt_v2022-03-31\x64\Debug\ProjetTestQt.exe
